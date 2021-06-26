@@ -4,8 +4,8 @@
     "firstName": "Mira",
     "lastName": "Gabita",
     "gender":"female",
-    "latitude": "46.448, 27.336",
-    "longitude": "40.440,23.300"
+    "latitude": "46.448",
+    "longitude": "27.336"
  },
   {
     "firstName": "Dia",
@@ -13,6 +13,13 @@
     "gender":"female",
     "latitude": "44.439663",
     "longitude": "26.096306"
- }
+ },
+  {
+   "firstName": "Ionut",
+    "lastName": "John",
+    "gender":"male",
+    "latitude": "40.440",
+    "longitude": "23.300"
+  }
  ]
 }
