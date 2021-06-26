@@ -1,4 +1,5 @@
-[
+{
+ "user":[
  {
     "firstName": "Mira",
     "lastName": "Gabita",
@@ -12,3 +13,4 @@
     "longitude": "10.11"
  }
  ]
+}
