@@ -3,14 +3,16 @@
  {
     "firstName": "Mira",
     "lastName": "Gabita",
-    "latitude": "12.14",
-    "longitude": "10.10"
+    "gender":"female",
+    "latitude": "46.448, 27.336",
+    "longitude": "40.440,23.300"
  },
   {
     "firstName": "Dia",
     "lastName": "Roxi",
-    "latitude": "12.13",
-    "longitude": "10.11"
+    "gender":"female"
+    "latitude": "44.439663",
+    "longitude": "26.096306"
  }
  ]
 }
