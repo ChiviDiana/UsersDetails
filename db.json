@@ -1,6 +1,14 @@
+[
  {
-    "firstName": "Eu",
-    "lastName": "Tu",
-    "latitude": "12.12",
+    "firstName": "Mira",
+    "lastName": "Gabita",
+    "latitude": "12.14",
     "longitude": "10.10"
+ },
+  {
+    "firstName": "Dia",
+    "lastName": "Roxi",
+    "latitude": "12.13",
+    "longitude": "10.11"
  }
+ ]
