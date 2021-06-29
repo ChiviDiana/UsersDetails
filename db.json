@@ -1,23 +1,23 @@
 {
  "user":[
  {
-    "firstName": "Mira",
-    "lastName": "Gabita",
-    "gender":"female",
+    "firstName": "Andrei",
+    "lastName": "Radu",
+    "gender":"male",
     "latitude": "46.448",
     "longitude": "27.336"
  },
   {
-    "firstName": "Dia",
-    "lastName": "Roxi",
+    "firstName": "Adelina",
+    "lastName": "Verde",
     "gender":"female",
     "latitude": "44.439663",
     "longitude": "26.096306"
  },
   {
-   "firstName": "Ionut",
-    "lastName": "John",
-    "gender":"male",
+   "firstName": "Elena",
+    "lastName": "Ghinea",
+    "gender":"female",
     "latitude": "40.440",
     "longitude": "23.300"
   }
